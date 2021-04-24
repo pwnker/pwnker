@@ -10,7 +10,7 @@ I am a student in the UK with a passion for all things computers and Infosec. I 
 
 
 ## Repositories 
-[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=jackbot&theme=dark)](https://github.com/pwnker/jackbot) [![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=dotfiles-and-scripts&theme=dark)](https://github.com/pwnker/dotfiles-and-scripts) 
+[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=Jackbot&theme=dark)](https://github.com/pwnker/jackbot) [![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=dotfiles-and-scripts&theme=dark)](https://github.com/pwnker/dotfiles-and-scripts) 
 
 ## HackTheBox
 <a href="https://www.hackthebox.eu/profile/131031"> <img src="http://www.hackthebox.eu/badge/image/131031" alt="Hack The Box"> </a>
