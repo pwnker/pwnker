@@ -10,4 +10,4 @@ That annoying skid in your system ¯\_(ツ)_/¯ | Student | I'm all about Infose
 
 
 ## Repositories 
-[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=jackbot&theme=dark)](https://github.com/pwnker/jackbot)
+[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=jackbot&theme=dark)](https://github.com/pwnker/jackbot) [![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=dotfiles-and-scripts&theme=dark)](https://github.com/pwnker/jdotfiles-and-scripts) 
