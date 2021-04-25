@@ -10,7 +10,7 @@ I am a student in the UK with a passion for all things computers and Infosec. I 
 
 
 ## Repositories 
-[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=Jackbot&theme=dark)](https://github.com/pwnker/jackbot) [![Pastpapers Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=pastpapers&theme=dark)](https://github.com/pwnker/pastpapers) [![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=Dotfiles-and-scripts&theme=dark)](https://github.com/pwnker/dotfiles-and-scripts)
+[![JackBot Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=Jackbot&theme=dark)](https://github.com/pwnker/jackbot) [![Pastpapers Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=pastpapers&theme=dark)](https://github.com/pwnker/pastpapers) [![pwnker.com Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=pwnker.github.io&theme=dark)](https://github.com/pwnker/pwnker.github.io) [![Dotfiles Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnker&repo=Dotfiles-and-scripts&theme=dark)](https://github.com/pwnker/dotfiles-and-scripts)
 
 ## HackTheBox
 <a href="https://www.hackthebox.eu/profile/131031"> <img src="http://www.hackthebox.eu/badge/image/131031" alt="Hack The Box"> </a>
